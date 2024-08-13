@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MedicalDashboardUI</string>
+    <string name="record">Records</string>
+    <string name="shot_views">Shot Views</string>
+    <string name="more">more</string>
+    <string name="clients">Clients</string>
+    <string name="_500">500+</string>
+    <string name="impacted">Impacted</string>
+    <string name="_159">159</string>
+    <string name="following">Following</string>
+    <string name="_1000">1000+</string>
+    <string name="_512">₹512</string>
+    <string name="thin_face_needle">Thin face needle</string>
+    <string name="tekari">Tekari</string>
+    <string name="_9am_5pm">9am - 5pm</string>
+    <string name="_299">₹299</string>
+    <string name="hydro_lifting">Hydro Lifting</string>
+    <string name="dobhi">Dobhi</string>
+    <string name="_999">₹999</string>
+    <string name="surgery">Surgery</string>
+    <string name="manpur">Manpur</string>
+    <string name="_799">₹799</string>
+    <string name="chemicals">Chemicals</string>
+    <string name="tower_chowk">Tower Chowk</string>
+</resources>
